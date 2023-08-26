@@ -2,10 +2,7 @@
 🔭 Software Developer with experience on designing, developing and deploying web application.<br>
 🌱 Open to new learning opportunities and constantly improving language skills.<br>
 🤝 B2 English level and mid-level in technical communication.<br>
-📚 I’m currently learning statistic for Data Science.<br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-arroyave) <br>
+📚 I’m currently learning statistics for Data Science.<br>
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -27,10 +24,5 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoseArroyave&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoseArroyave&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArroyave&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-
----
-[![](https://visitcount.itsvg.in/api?id=JoseArroyave&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-arroyave) <br>
